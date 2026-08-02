@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rishabh751/DSA/tree/master/0009-palindrome-number) |
+| [0877-stone-game](https://github.com/Rishabh751/DSA/tree/master/0877-stone-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Rishabh751/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Array
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rishabh751/DSA/tree/master/0088-merge-sorted-array) |
+| [0877-stone-game](https://github.com/Rishabh751/DSA/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rishabh751/DSA/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Rishabh751/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Rishabh751/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
